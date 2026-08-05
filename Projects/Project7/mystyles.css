@@ -1,0 +1,214 @@
+body{
+		margin:0;
+		height:auto;
+        background-color: antiquewhite;
+        font-size: medium;
+   
+  }
+header{
+	width: 880px;
+	height:150px;
+	margin:auto;
+	padding:10px;
+	border:1px solid black;
+
+	
+}
+nav{
+	width:20%;
+	
+	float:right;
+	height: auto;
+	align-content: center;
+}
+nav a{
+	background-color:white;
+	width: 100%;
+	float: right;
+	height:22px;
+	padding-top:3px;
+	padding-bottom:3px;
+	
+	text-align: center;
+	border: 1px solid;
+	border-radius:10px;
+}
+article{
+	width:800px;
+	margin:auto;
+	height: auto;
+	
+}
+#container{
+	background-color:#654625;
+	height:auto;
+	width:900px;
+	margin: auto;
+}
+    @font-face {
+        font-family: rose;
+        src: url(fonts/Red_Rose/RedRose-VariableFont_wght.ttf);
+        
+    }
+     @font-face {
+        font-family: faulty;
+        src: url(fonts/Faculty_Glyphic/FacultyGlyphic-Regular.ttf);
+        
+    }
+        hr{
+        background-color: #2F3C2C;
+        padding: 0.2%;
+    }
+    .award{
+        color:rgb(98, 6, 6);
+    }
+section {
+width: 898px;
+background-image: url('Images/2colback.jpg');
+background-repeat: repeat-y;
+padding-bottom: 10px;
+border:1px solid black;
+
+}
+footer{
+	width:898px;
+	background-color:#CDA67A;
+	border:1px solid black;
+    
+}
+   h1{
+    background-color: #897856;
+    border:solid;
+    border-color: black;
+    border-width: 1px;
+    font-family: faulty;
+    text-align: center;
+   }
+    h2{
+        font-family: faulty;
+        color:rgb(10, 48, 75);
+    }
+    a{
+        color: #173864;
+        
+        font-size: 120%;
+        font-weight: bold;
+    }
+    a:visited{
+        color: #0E2435;
+    }
+    a:hover{
+        color: #1753AA;
+    }
+     .picright{
+        float:right;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    table{
+        width: 100%;
+        border-collapse: collapse;
+        color:#0E2435;
+        background-color: rgb(7, 70, 8);
+        
+        
+    }
+    th{
+        border: 2px solid rgb(10, 7, 62);
+        padding:10px;
+        margin-top: 10px;
+        border-radius: 10px;
+        font-size: 120%;
+        color:#0E2435;
+        background-color: rgb(82, 117, 117);
+    } 
+     td{
+        border: 2px solid rgb(58, 44, 44);
+        padding:10px;
+        margin-top: 10px;
+        border-radius: 10px;
+        font-size: 120%;
+        color:rgb(17, 43, 43);
+        background-color: rgb(123, 152, 128);
+        text-align: center;
+    } 
+    .adventure{
+        background-color: #687d63 ;
+     
+    }
+caption{
+    color:rgb(35, 22, 22);
+    font-size: 150%;
+    padding-bottom: 10px;
+}
+    .duration{
+background-color: #897856;
+    }
+    tr{
+        color:rgb(5, 5, 7);
+
+}
+#thumbs, #image
+{
+width: 700px; border: solid 1px
+#000; text-align: center; margin:
+0 auto 0 auto; color: #000;
+background: #eee; padding:
+5px;
+}
+#thumbs {
+margin-top: 10px;
+}
+#thumbs img {
+border: solid 1px
+#000; margin:
+5px;
+}
+#image{
+height:400px;
+}
+.instructions{
+font-style:italic;
+}
+
+
+	#thumbs, #image {
+		width: 800px;
+		text-align: center;
+		margin: 0 auto 0 auto;
+		color: #000;
+	}
+
+	#thumbs {
+		margin-top: 10px;
+	}
+
+			
+	#thumbs img {
+		border: solid 1px #000;
+		margin: 5px;
+	}
+
+	#image{
+		height:500px;
+	}
+
+	.instructions{
+		font-style:italic;
+	}
+.picright{
+        float:right;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+#tributes{
+	width:100%;
+	background-color: #eee;
+	height:250px;
+	margin-bottom: 30px;
+	border: 1px solid;
+	font-size:1em;
+	padding-left:10px;
+}
+
+
